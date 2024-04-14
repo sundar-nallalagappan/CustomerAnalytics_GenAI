@@ -1,7 +1,7 @@
 import openai
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "sai************************************************"
 
 def translate_text(text, source_language):
     response = openai.ChatCompletion.create(
