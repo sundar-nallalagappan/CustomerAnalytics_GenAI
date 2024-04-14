@@ -1,0 +1,8 @@
+langdetect
+pandas
+numpy
+matplotlib
+google_play_scraper
+emoji
+openai==0.28
+nltk
